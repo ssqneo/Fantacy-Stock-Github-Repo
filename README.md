@@ -10,7 +10,7 @@ Teams of 2 were created to compete against each other, each individual received 
 The API utilized to obtain the real time and historical stock data was Alpha Vantage. 
 
 # Requirement:
-The script is written in R, see the R Markdown for a list of required packages.
+The script is written in R, the required packages are as follows: `alphavantager` `jsonlite` `tidyverse`.
 
 # Models: 
 
