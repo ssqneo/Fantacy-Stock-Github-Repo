@@ -1,7 +1,7 @@
 # Fantacy-Stock-Github-Repo
-Team Syed and Zimin
-CIS-544-11
-2/23/2020
+- Team Syed and Zimin
+- CIS-544-11
+- 2/23/2020
 
 # About: 
 
