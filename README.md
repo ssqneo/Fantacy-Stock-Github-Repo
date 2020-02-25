@@ -10,7 +10,7 @@ Teams of 2 were created to compete against each other, each individual received 
 The API utilized to obtain the real time and historical stock data was Alpha Vantage. Moreover, it was a part of the requirement to create a virtual machine hosted on AWS which would run the trading scripts so that the local machine isn't bound to stay on for the duration when the stock market is open.
 
 # Requirement:
-The script is written in R, the required packages are as follows: `alphavantager` `jsonlite` `tidyverse`.
+The script is written in R, the required packages are as follows: `alphavantager` `jsonlite` `tidyverse` `forecast`.
 
 # AWS Instance for running the Rscripts.
 Remote desktop connection app which comes pre installed in a windows operating system was used to connect to the AWS instance.
