@@ -9,6 +9,20 @@ Fantasy stock was a stock trading competition conducted by our professor in whic
 Teams of 2 were created to compete against each other, each individual received $100,000 big data dollars (BDD) to start with the trading competition calling projectrex; a mediator to execute commands such as buying, selling, viewing profile and viewing the transaction log.
 The API utilized to obtain the real time and historical stock data was Alpha Vantage. Moreover, it was a part of the requirement to create a virtual machine hosted on AWS which would run the trading scripts so that the local machine isn't bound to stay on for the duration when the stock market is open.
 
+# Rules
+
+The competition started on 01/28/2020 at 10am and we had to abide by the following rules:
+
+    All trading must be done from R and completely automated.
+    You are limited to 2 calls per minute, maximum 300 API calls per day.
+    You must make at least 250 successful trades (buy/sell) per day.
+    All trading is to be done between 10am-4pm.
+    Failed transactions will result in a $1,000BDD penalty.
+    There is a minimum of 250 successful transactions per day. 
+    Any accounts below that threshold will be penalized after the market closes that day.
+    The penalty will be $100 per missed transaction. So if you only make 100 successful transactions in a day, you will be penalized $1,500.
+
+
 # Requirement:
 The script is written in R, the required packages are as follows: `alphavantager` `jsonlite` `tidyverse` `forecast`.
 
