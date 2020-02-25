@@ -14,8 +14,8 @@ The script is written in R, the required packages are as follows: `alphavantager
 
 # AWS Instance for running the Rscripts.
 Remote desktop connection app which comes pre installed in a windows operating system was used to connect to the AWS instance.
-Zimin AWS instance: ec2-34-207-81-218.compute-1.amazonaws.com
-Syed AWS instance: ec2-34-203-244-43.compute-1.amazonaws.com
+- Zimin AWS instance: ec2-34-207-81-218.compute-1.amazonaws.com
+- Syed AWS instance: ec2-34-203-244-43.compute-1.amazonaws.com  
 The encrypted keys have been hidden for security reasons.
 
 # Models: 
