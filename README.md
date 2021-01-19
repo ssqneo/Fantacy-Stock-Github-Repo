@@ -1,4 +1,4 @@
-# Fantacy-Stock-Github-Repo
+# Fantasy-Stock-Github-Repo
 - Team Syed and Zimin
 - CIS-544-11
 - 2/23/2020
